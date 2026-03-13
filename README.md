@@ -1,4 +1,4 @@
-# -Cinema-Programing
+# Cinema-Programing
 이 프로그램은 C로 구현 후 컴파일된 .exe 파일 실행을 통해 작동합니다.
 
 2.1 작동 환경
